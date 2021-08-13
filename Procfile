@@ -1,0 +1,1 @@
+web: gunicorn hufsgonggu.wsgi --log-file -
