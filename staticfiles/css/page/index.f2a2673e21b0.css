@@ -1,0 +1,24 @@
+#wrapper1{
+    width: 1835px;
+    height: 995px;
+    background-image: url("../..//images/introduction/001.ee990e7a8eba.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#wrapper2{
+    width: 1835px;
+    height: 995px;
+    background-image: url("../..//images/introduction/002.178207638445.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#wrapper3{
+    width: 1835px;
+    height: 995px;
+    background-image: url("../..//images/introduction/003.68ca96ceed95.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

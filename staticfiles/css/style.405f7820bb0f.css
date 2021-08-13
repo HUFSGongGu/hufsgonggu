@@ -1,0 +1,31 @@
+/* components */
+@import url("components/notice.a82c59c0b270.css");
+@import url("components/variable.e8d7082de181.css");
+@import url("components/appForm.9166c59c0b32.css");
+@import url("components/signupInput.c8c2f556457b.css");
+/* page */
+@import url("page/reset.3c943c7f4cd7.css");
+@import url("page/status-bar.62066456476f.css");
+@import url("page/complete.d3902dfdb02a.css");
+@import url("page/review.6228a8e89c52.css");
+@import url("page/login.0f8670e7833e.css");
+@import url("page/signup.dadceea237fb.css");
+@import url("page/goodsList.7d28cba04a6e.css");
+@import url("page/goodsDetail.e64007ad3067.css");
+@import url("page/noticeDetail.31c177b68ceb.css");
+@import url("page/goodsReviewDetail.6e08ccf3614f.css");
+@import url("page/search.8f9602dc1a57.css");
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+body {
+    box-sizing: border-box;
+    background-color: #ededed;
+    padding: 3rem 5rem;
+    height: 100%;
+    align-items: center;
+
+    font-family: "Noto Sans", sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
+    padding-top: 3rem;
+}
